@@ -27,6 +27,7 @@ h1 {
 
  #data-vizes > div {
    margin: 3em;
+   display: inline-block;
 }
 
 #descr-txt p {
