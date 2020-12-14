@@ -21,6 +21,9 @@ h1 {
   margin-bottom: 2em;
 }
 
+#data-vizes {
+  text-align: center;
+}
 #descr-txt p {
   vertical-align: top;
   width: 425px;
