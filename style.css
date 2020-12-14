@@ -30,6 +30,10 @@ h1 {
    display: inline-block;
 }
 
+#alluv-chart * text {
+  fill: white;
+}
+
 #descr-txt p {
   vertical-align: top;
   width: 425px;
