@@ -7,9 +7,9 @@
 }
 
 html, body {
-  margin: 0px;
+  margin: -10px;
   background-color: rgb(40, 44, 52);
-  padding: 0;
+  padding: 0px;
   font-family: "Helvetica", serif;
 }
 
