@@ -149,3 +149,7 @@ h1 {
 text {
   fill: lightgrey;
 }
+
+#text-labels * text {
+  fill: black;
+}
