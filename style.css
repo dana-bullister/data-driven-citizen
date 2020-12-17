@@ -9,7 +9,7 @@
 html, body {
   margin: 0px;
   background-color: rgb(40, 44, 52);
-  padding: 15px;
+  padding: 0;
   font-family: "Helvetica", serif;
 }
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 #data-vizes {
-  text-align: left;
+  text-align: center;
 }
 
  #data-vizes > div {
